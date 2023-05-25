@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with GPT3-react app
 
 This project was created by [donib](https://linkedin.com/in/idonib).
 
