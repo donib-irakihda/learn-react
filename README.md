@@ -4,6 +4,8 @@ This project was created by [donib](https://linkedin.com/in/idonib).
 
 See this app live [here](https://gpt3-react-ten.vercel.app/).
 
+Figma: https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3
+
 ## Available Scripts
 
 In the project directory, you can run:
