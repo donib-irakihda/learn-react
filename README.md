@@ -1,8 +1,8 @@
 # Getting Started with Create React App
 
-This project was created by [donib](https://linkedin.com/in/idonib)
+This project was created by [donib](https://linkedin.com/in/idonib).
 
-See this app live [here](https://gpt3-react-ten.vercel.app/)
+See this app live [here](https://gpt3-react-ten.vercel.app/).
 
 ## Available Scripts
 
